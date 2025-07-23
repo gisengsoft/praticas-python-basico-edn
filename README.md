@@ -32,5 +32,5 @@ cd praticas-python-basico-edn
 python atividade1_Saudacao.py
 
 ✍️ Autor
-Amilton Gilson Inacio
+Gilson Inacio
 Aluno da Escola da Nuvem
