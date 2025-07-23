@@ -1,6 +1,6 @@
 # 🐍 Práticas Básicas em Python — Escola da Nuvem
 
-Repositório com atividades iniciais em Python desenvolvidas como parte da formação da **Escola da Nuvem**. Cada arquivo representa uma prática fundamental de lógica de programação.
+Repositório com atividades iniciais em Python desenvolvidas como parte da formação em IA da **Escola da Nuvem**. Cada arquivo representa uma prática fundamental de lógica de programação.
 
 ---
 
@@ -19,52 +19,59 @@ Essas atividades reforçam conceitos como variáveis, expressões aritméticas, 
 ## 🛠️ Instruções de Instalação
 
 1. **Clone este repositório:**
-```bash
-git clone https://github.com/SEU-USUARIO/praticas-python-basico-edn.git
-```
+   
+   ```bash
+   git clone https://github.com/SEU-USUARIO/praticas-python-basico-edn.git
+   ```
 
 2. **Acesse a pasta:**
-```bash
-cd praticas-python-basico-edn
-```
+   
+   ```bash
+   cd praticas-python-basico-edn
+   ```
 
 3. **Execute o script desejado:**
-```bash
-python atividade1_Saudacao.py
-```
+   
+   ```bash
+   python atividade1_Saudacao.py
+   ```
 
 ---
 
 ## 📖 Documentação Básica
 
-| Arquivo                                 | Descrição                                        |
-|----------------------------------------|--------------------------------------------------|
-| `atividade1_Saudacao.py`               | Imprime uma mensagem de saudação                 |
-| `atividade2_CalculadoradeSoma.py`      | Soma dois números fixos e exibe o resultado      |
-| `atividade3_CalculadoradeVolume.py`    | Calcula o volume de uma caixa retangular         |
-| `atividade4_CalculadoradePrecoTotal.py`| Calcula o valor total de uma compra simulada     |
+| Arquivo                                 | Descrição                                    |
+| --------------------------------------- | -------------------------------------------- |
+| `atividade1_Saudacao.py`                | Imprime uma mensagem de saudação             |
+| `atividade2_CalculadoradeSoma.py`       | Soma dois números fixos e exibe o resultado  |
+| `atividade3_CalculadoradeVolume.py`     | Calcula o volume de uma caixa retangular     |
+| `atividade4_CalculadoradePrecoTotal.py` | Calcula o valor total de uma compra simulada |
 
 ---
 
 ## 💡 Exemplos de Uso
 
 ### ✅ Rodando uma atividade:
+
 ```bash
 python atividade2_CalculadoradeSoma.py
 ```
 
 **Saída esperada:**
+
 ```
 2 - Calculadora de Soma
 Números: 12 + 14 = 26
 ```
 
 ### ✅ Rodando outra atividade:
+
 ```bash
 python atividade4_CalculadoradePrecoTotal.py
 ```
 
 **Saída esperada:**
+
 ```
 4 - Calculadora de Preço Total
 Produto: Cadeira Infantil
@@ -84,8 +91,10 @@ Preço Total: R$ 37.20
 
 ## ✍️ Autor
 
-**Amilton Garcia**  
-Aluno da [Escola da Nuvem](https://www.escoladanuvem.org/)
+**Gilson Inacio**  
+Aluno da Escola da Nuvem  
+🔗 [GitHub](https://github.com/gisengsoft)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gilsoninsilva/)
 
 ---
 
